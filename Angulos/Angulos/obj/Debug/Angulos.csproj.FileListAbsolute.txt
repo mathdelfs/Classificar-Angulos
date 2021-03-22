@@ -1,0 +1,10 @@
+D:\Angulos\Angulos\bin\Debug\Angulos.exe.config
+D:\Angulos\Angulos\bin\Debug\Angulos.exe
+D:\Angulos\Angulos\bin\Debug\Angulos.pdb
+D:\Angulos\Angulos\obj\Debug\Angulos.csprojAssemblyReference.cache
+D:\Angulos\Angulos\obj\Debug\Angulos.Form1.resources
+D:\Angulos\Angulos\obj\Debug\Angulos.Properties.Resources.resources
+D:\Angulos\Angulos\obj\Debug\Angulos.csproj.GenerateResource.cache
+D:\Angulos\Angulos\obj\Debug\Angulos.csproj.CoreCompileInputs.cache
+D:\Angulos\Angulos\obj\Debug\Angulos.exe
+D:\Angulos\Angulos\obj\Debug\Angulos.pdb
